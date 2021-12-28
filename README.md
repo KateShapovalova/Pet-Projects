@@ -1,0 +1,1 @@
+Projects for study, practice, improve required skills and for fun x3
