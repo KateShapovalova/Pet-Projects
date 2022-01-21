@@ -2,6 +2,6 @@
 
 flask db init
 
-flask db migrate -m "NAME table"
+flask db migrate -m "comment text"
 
 flask db upgrade

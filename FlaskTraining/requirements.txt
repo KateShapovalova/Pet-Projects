@@ -1,5 +1,14 @@
-flask
+flask~=2.0.2
 python-dotenv
 flask-wtf
 flask-sqlalchemy
 flask-migrate
+flask-login
+wtforms~=3.0.0
+werkzeug~=2.0.2
+alembic~=1.7.5
+sqlalchemy~=1.4.29
+email-validator
+flask-mail
+pyjwt
+flask-bootstrap
